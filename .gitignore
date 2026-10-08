@@ -1,0 +1,5 @@
+# Keep completed candidate data and generated packages private.
+private/
+outputs/
+*.local.md
+.DS_Store
